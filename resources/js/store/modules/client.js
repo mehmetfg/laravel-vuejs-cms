@@ -82,7 +82,7 @@ const  actions={
                     timer: 1500
                 });
             }else{
-                tekrar dener sin mi
+
 
                 swal({
                     position: 'center',
